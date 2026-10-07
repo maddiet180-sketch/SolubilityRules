@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcrun swiftc *)",
+      "Bash(echo \"exit $?\")"
+    ]
+  }
+}
